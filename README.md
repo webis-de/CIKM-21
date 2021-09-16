@@ -1,5 +1,5 @@
 # Misbeliefs and Biases in Health-Related Searches
-This repository contains the data used in the paper ["Misbeliefs and Biases in Health-Related Searches"](https://webis.de/publications.html?q=Misbeliefs+and+Biases+in+Health-Related+Searches), published at the [CIKM 2021](https://www.cikm2021.org/) conference. For citation, please, use the following reference:
+This repository contains the data used in the paper ["Misbeliefs and Biases in Health-Related Searches"](https://webis.de/publications.html?q=bondarenko_2021c), published at the [CIKM 2021](https://www.cikm2021.org/) conference. For citation, please, use the following reference:
 
 ```
 @InProceedings{bondarenko:2021c,
